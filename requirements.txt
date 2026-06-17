@@ -2,3 +2,5 @@ pytest==9.0.2
 mlflow==3.10.0
 pandas==3.0.1
 scikit-learn==1.1.1
+azure-ai-mlflow==1.70.0
+azure-ai-ml==1.70.0
